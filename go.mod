@@ -1,3 +1,4 @@
+
 module github.com/KrakovA05/workflow-test.git
 
 go 1.23.4
@@ -22,3 +23,4 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.9.1 // indirect
 )
+

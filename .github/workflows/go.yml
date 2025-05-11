@@ -9,7 +9,7 @@ on:
 
 env:
   GO_VERSION: '1.21'
-  DOCKER_IMAGE_NAME: 'krakova05/parcel-tracker'
+  DOCKER_IMAGE_NAME: 'arseniy05/parcel-tracker'
 
 jobs:
   test:

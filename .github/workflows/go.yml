@@ -1,3 +1,4 @@
+#go.yml
 name: Go CI/CD Pipeline
 
 on:
